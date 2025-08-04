@@ -1,0 +1,14 @@
+# Proyecto: Formulario de Producto
+## Requisitos
+- PHP 8.0+
+- MySQL
+- Servidor web (Laragon, XAMPP, etc.)
+
+## Instalación
+1. Colocar la carpeta en www (Laragon/XAMPP)
+2. Crear base de datos 'productos' en phpMyAdmin
+3. Importar sql/database.sql
+4. Acceder a: http://localhost/Desis
+
+## Versión de PHP: 8.0+
+## Gestor de base de datos: MySQL
