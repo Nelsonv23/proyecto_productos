@@ -27,13 +27,13 @@
                 <div class="col">
                     <label for="bodega">Bodega:</label>
                     <select id="bodega" name="bodega">
-                        <option value="">Seleccionar Bodega</option>
+                        <option value=""></option>
                     </select>
                 </div>
                 <div class="col">
                     <label for="sucursal">Sucursal:</label>
                     <select id="sucursal" name="sucursal">
-                        <option value="">Seleccionar Sucursal</option>
+                        <option value=""></option>
                     </select>
                 </div>
             </div>
@@ -43,7 +43,7 @@
                 <div class="col">
                     <label for="moneda">Moneda:</label>
                     <select id="moneda" name="moneda">
-                        <option value="">Seleccionar Moneda</option>
+                        <option value=""></option>
                     </select>
                 </div>
                 <div class="col">

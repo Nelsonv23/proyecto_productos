@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", function () {
   // Cargar Sucursales cuando cambia la Bodega
   bodegaSelect.addEventListener("change", function () {
     const bodegaId = this.value;
-    sucursalSelect.innerHTML = '<option value="">Seleccionar Sucursal</option>';
+    sucursalSelect.innerHTML = '<option value=""></option>';
 
     if (!bodegaId) return;
 
